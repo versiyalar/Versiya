@@ -7,7 +7,7 @@
 
 <h4><a href="https://0-0-2.netlify.app/">002</a> — Birinchi CSS dizayn yaratildi.</h4>
 
-<h4><a href="https://0-0-3.netlify.app/">002</a> — HTMLni o‘rganish ildi.</h4>
+<h4><a href="https://0-0-3.netlify.app/">002</a> — HTMLni o‘rganish bo‘limi qo‘shildi.</h4>
 
 
 
