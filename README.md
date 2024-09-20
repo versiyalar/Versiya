@@ -1,2 +1,2 @@
 # Versiyalar
-www.uralbek.uz sayti uchun tuzilayotgan bazaning versiyalar
+www.uralbek.uz sayti uchun tuzilayotgan bazaning versiyalar va nashrlar jadvali.
